@@ -14,7 +14,7 @@ Desenvolver o site de uma agência de turismo responsivo utilizando apenas HTML 
 <h2>Clone o Repositório:</h2>
 
 ````bash
-$ git clone https://github.com/lhonrio/FlexTurismo.git
+$ git clone https://github.com/lhonrio/flexbox-css.git
 ````
 </br><h3><b>Desenvolvido por:</h3></b>
 - [Lucas Honório Lima](https://www.linkedin.com/in/lhonrio/)
